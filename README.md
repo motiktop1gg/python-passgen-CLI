@@ -1,4 +1,5 @@
-![Screenshot](assets/screenshot.png) ![Demo](assets/demo.gif)
+![Screenshot](assets/screenshot.png) 
+![Demo](assets/demo.gif)
 
 # Password Generator
 
