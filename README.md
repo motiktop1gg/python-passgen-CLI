@@ -1,3 +1,5 @@
+![Screenshot](assets/screenshot.png)
+
 # Password Generator
 
 A simple Python CLI tool for generating random passwords.  
